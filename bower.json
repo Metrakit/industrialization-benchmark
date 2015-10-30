@@ -1,0 +1,24 @@
+{
+  "name": "industrialization-benchmark",
+  "homepage": "https://github.com/Metrakit/industrialization-benchmark",
+  "authors": [
+    "Jordane <contact@jordane.net>"
+  ],
+  "description": "benchmark for the web industrialization",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.1",
+    "angular": "~1.4.7",
+    "bootstrap": "~4.0.0-alpha",
+    "materialize": ">=0.97.1"
+  }
+}
